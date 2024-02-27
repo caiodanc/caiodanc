@@ -12,6 +12,15 @@
  Estou iniciando o aprendizado em:
  - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js" width=60px height=20px />
  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react" width=60px/>
-
+ 
  Compartilharei com vocês neste espaço, todos os meus avanços e os conhecimentos que eu adquirir. :mortar_board:
+  <br>
+  <br>
+[![caiodanc GitHub stats](https://github-readme-stats.vercel.app/api?username=caiodanc)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
+ 
 
